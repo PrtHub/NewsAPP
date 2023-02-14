@@ -1,0 +1,1 @@
+<img src={!imgUrl ? "https://images.pexels.com/photos/518543/pexels-photo-518543.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" : imgUrl} className="card-img-top" alt="..." />
