@@ -6,7 +6,7 @@ const Navbar = (props) => {
             <div className='sticky-top'>
                 <nav className={`navbar navbar-expand-lg bg-dark `} data-bs-theme="dark">
                     <div className={`container-fluid `}>
-                        <Link className="navbar-brand" to="/">NewsFantasy</Link>
+                        <Link className="navbar-brand" to="/">Daily News</Link>
                         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                             <span className="navbar-toggler-icon"></span>
                         </button>
